@@ -14,6 +14,7 @@ const steps = [
   {
     number: 3,
     title: "Order Online",
+    image: "src/assets/AliExpress (1).png",
   },
   {
     number: 4,
