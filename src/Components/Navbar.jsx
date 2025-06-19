@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo-section">
-        <img src="src/assets/dark-logo 1 (2).svg" alt="Logo" className="logo" />
+        <img src="src/assets/dark-logo1(2).svg" alt="Logo" className="logo" />
       </div>
 
       <div className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>

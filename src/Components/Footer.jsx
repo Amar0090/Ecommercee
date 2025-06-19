@@ -1,5 +1,5 @@
 import "./Footer.css";
-import logo from "../assets/light-logo 1 (1).png"; // 🔥 सही path
+import logo from "../assets/light-logo1(1).png"; // 🔥 सही path
 
 const Footer = () => {
   return (

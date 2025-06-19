@@ -8,7 +8,7 @@ export default function ProductCards() {
           className="w-[300px] bg-white p-2 shadow-md rounded-md"
         >
           <img
-            src="src/assets/Rectangle 17.png"
+            src="src/assets/Rectangle17.png"
             alt="Product"
             className="w-full h-60 object-cover"
           />

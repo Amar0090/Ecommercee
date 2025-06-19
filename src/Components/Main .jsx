@@ -20,7 +20,7 @@ const Main = () => {
       {/* Image Section */}
       <div className="md:w-1/2 flex justify-center">
         <img
-          src="src/assets/Screenshot 2025-06-13 131027.png"
+          src="src/assets/Screenshot2025-06-13131027.png"
           alt="Hero"
           className="w-[280px] md:w-[350px] lg:w-[400px] object-contain"
         />

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Card5.css";
-import capImage from "../assets/Rectangle 56 (1).png";
+import capImage from "../assets/Rectangle56(1).png";
 
 const Card5 = () => {
   return (

@@ -4,32 +4,32 @@ const steps = [
   {
     number: 1,
     title: "Pick Your Items",
-    image: "src/assets/Select All.png",
+    image: "src/assets/SelectAll.png",
   },
   {
     number: 2,
     title: "Upload Artwork",
-    image: "src/assets/Upload (1).png",
+    image: "src/assets/Upload(1).png",
   },
   {
     number: 3,
     title: "Order Online",
-    image: "src/assets/AliExpress (1).png",
+    image: "src/assets/AliExpress(1).png",
   },
   {
     number: 4,
     title: "Art Mock Approval",
-    image: "src/assets/Drawing (1).png",
+    image: "src/assets/Drawing(1).png",
   },
   {
     number: 5,
     title: "Production",
-    image: "src/assets/Female Worker.png",
+    image: "src/assets/FemaleWorker.png",
   },
   {
     number: 6,
     title: "Shipping",
-    image: "src/assets/In Transit.png",
+    image: "src/assets/InTransit.png",
   },
 ];
 

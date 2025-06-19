@@ -4,7 +4,7 @@ const products = [
   {
     id: 1,
     image:
-      "src/assets/Rectangle 17.png",
+      "src/assets/Rectangle17.png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -14,7 +14,7 @@ const products = [
   {
     id: 2,
     image:
-      "src/assets/Rectangle 17 (2).png",
+      "src/assets/Rectangle17(2).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -23,7 +23,7 @@ const products = [
   {
     id: 3,
     image:
-      "src/assets/Rectangle 17 (4).png",
+      "src/assets/Rectangle17(4).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -32,7 +32,7 @@ const products = [
   {
     id: 4,
     image:
-      "src/assets/Rectangle 17 (5).png",
+      "src/assets/Rectangle17(5).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -41,7 +41,7 @@ const products = [
   {
     id: 5,
     image:
-      "src/assets/Rectangle 17 (6).png",
+      "src/assets/Rectangle17(6).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -50,7 +50,7 @@ const products = [
   {
     id: 6,
     image:
-      "src/assets/Rectangle 17.png",
+      "src/assets/Rectangle17.png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -59,7 +59,7 @@ const products = [
   {
     id: 7,
     image:
-      "src/assets/Rectangle 17 (7).png",
+      "src/assets/Rectangle17(7).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",
@@ -68,7 +68,7 @@ const products = [
   {
     id: 8,
     image:
-      "src/assets/Rectangle 17 (2).png",
+      "src/assets/Rectangle17(2).png",
     brand: "Gap",
     name: "Men GAP Winter Cap",
     price: "$60.00",

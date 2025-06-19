@@ -20,7 +20,7 @@ function Top() {
               It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using lorem ipsum.
             </p>
             <div className="profile">
-              <img src="src/assets/Rectangle 22 (1).png" />
+              <img src="src/assets/Rectangle22(1).png" />
               <div>
                 <h4>Jenny Wilson</h4>
                 <span>Fashion Designer</span>
@@ -34,7 +34,7 @@ function Top() {
               It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using lorem ipsum.
             </p>
             <div className="profile">
-              <img src="src/assets/Rectangle 22 (1).png" />
+              <img src="src/assets/Rectangle22(1).png" />
               <div>
                 <h4>Jenny Wilson</h4>
                 <span>Fashion Designer</span>
@@ -48,7 +48,7 @@ function Top() {
               It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using lorem ipsum.
             </p>
             <div className="profile">
-              <img src="src/assets/Rectangle 22 (1).png" />
+              <img src="src/assets/Rectangle22(1).png" />
               <div>
                 <h4>Jenny Wilson</h4>
                 <span>Fashion Designer</span>
